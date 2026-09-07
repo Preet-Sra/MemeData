@@ -1,0 +1,16 @@
+{
+    "version": 1.0,
+    "options": [
+        {
+            "meme_name": "Option One",
+            "meme_image": "images/option_1.png",
+            "meme_audio": "audio/option_1.mp3"
+        },
+        {
+           "meme_name": "Option two",
+            "meme_image": "images/option_2.png",
+            "meme_audio": "audio/option_2.mp3"
+
+        }
+    ]
+}
