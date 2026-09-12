@@ -90,6 +90,31 @@
       "meme_name": "Option Eighteen",
       "meme_image": "Images/option_18.png",
       "meme_audio": "Audio/option_18.mp3"
+    },
+    {
+      "meme_name": "Option Nineteen",
+      "meme_image": "Images/option_19.png",
+      "meme_audio": "Audio/option_19.mp3"
+    },
+    {
+      "meme_name": "Option Twenty",
+      "meme_image": "Images/option_20.png",
+      "meme_audio": "Audio/option_20.mp3"
+    },
+    {
+      "meme_name": "Option Twenty-One",
+      "meme_image": "Images/option_21.png",
+      "meme_audio": "Audio/option_21.mp3"
+    },
+    {
+      "meme_name": "Option Twenty-Two",
+      "meme_image": "Images/option_22.png",
+      "meme_audio": "Audio/option_22.mp3"
+    },
+    {
+      "meme_name": "Option Twenty-Three",
+      "meme_image": "Images/option_23.png",
+      "meme_audio": "Audio/option_23.mp3"
     }
   ]
 }
