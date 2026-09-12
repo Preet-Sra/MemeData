@@ -1,16 +1,65 @@
 {
-    "version": 1.0,
-    "options": [
-        {
-            "meme_name": "Option One",
-            "meme_image": "Images/option_1.png",
-            "meme_audio": "Audio/option_1.mp3"
-        },
-        {
-           "meme_name": "Option two",
-            "meme_image": "Images/option_2.png",
-            "meme_audio": "Audio/option_2.mp3"
-
-        }
-    ]
+  "version": 1.0,
+  "options": [
+    {
+      "meme_name": "Option One",
+      "meme_image": "Images/option_1.png",
+      "meme_audio": "Audio/option_1.mp3"
+    },
+    {
+      "meme_name": "Option Two",
+      "meme_image": "Images/option_2.png",
+      "meme_audio": "Audio/option_2.mp3"
+    },
+    {
+      "meme_name": "Option Three",
+      "meme_image": "Images/option_3.png",
+      "meme_audio": "Audio/option_3.mp3"
+    },
+    {
+      "meme_name": "Option Four",
+      "meme_image": "Images/option_4.png",
+      "meme_audio": "Audio/option_4.mp3"
+    },
+    {
+      "meme_name": "Option Five",
+      "meme_image": "Images/option_5.png",
+      "meme_audio": "Audio/option_5.mp3"
+    },
+    {
+      "meme_name": "Option Six",
+      "meme_image": "Images/option_6.png",
+      "meme_audio": "Audio/option_6.mp3"
+    },
+    {
+      "meme_name": "Option Seven",
+      "meme_image": "Images/option_7.png",
+      "meme_audio": "Audio/option_7.mp3"
+    },
+    {
+      "meme_name": "Option Eight",
+      "meme_image": "Images/option_8.png",
+      "meme_audio": "Audio/option_8.mp3"
+    },
+    {
+      "meme_name": "Option Nine",
+      "meme_image": "Images/option_9.png",
+      "meme_audio": "Audio/option_9.mp3"
+    },
+    {
+      "meme_name": "Option Ten",
+      "meme_image": "Images/option_10.png",
+      "meme_audio": "Audio/option_10.mp3"
+    },
+    {
+      "meme_name": "Option Eleven",
+      "meme_image": "Images/option_11.png",
+      "meme_audio": "Audio/option_11.mp3"
+    },
+    {
+      "meme_name": "Option Twelve",
+      "meme_image": "Images/option_12.png",
+      "meme_audio": "Audio/option_12.mp3"
+    }
+  ]
 }
