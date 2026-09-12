@@ -60,6 +60,36 @@
       "meme_name": "Option Twelve",
       "meme_image": "Images/option_12.png",
       "meme_audio": "Audio/option_12.mp3"
+    },
+    {
+      "meme_name": "Option Thirteen",
+      "meme_image": "Images/option_13.png",
+      "meme_audio": "Audio/option_13.mp3"
+    },
+    {
+      "meme_name": "Option Fourteen",
+      "meme_image": "Images/option_14.png",
+      "meme_audio": "Audio/option_14.mp3"
+    },
+    {
+      "meme_name": "Option Fifteen",
+      "meme_image": "Images/option_15.png",
+      "meme_audio": "Audio/option_15.mp3"
+    },
+    {
+      "meme_name": "Option Sixteen",
+      "meme_image": "Images/option_16.png",
+      "meme_audio": "Audio/option_16.mp3"
+    },
+    {
+      "meme_name": "Option Seventeen",
+      "meme_image": "Images/option_17.png",
+      "meme_audio": "Audio/option_17.mp3"
+    },
+    {
+      "meme_name": "Option Eighteen",
+      "meme_image": "Images/option_18.png",
+      "meme_audio": "Audio/option_18.mp3"
     }
   ]
 }
