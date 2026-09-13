@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 2.0,
   "options": [
     {
       "meme_name": "Option One",
@@ -115,6 +115,91 @@
       "meme_name": "Option Twenty-Three",
       "meme_image": "Images/option_23.png",
       "meme_audio": "Audios/option_23.mp3"
+    },
+    {
+      "meme_name": "Option Twenty-Four",
+      "meme_image": "Images/option_24.png",
+      "meme_audio": "Audios/option_24.mp3"
+    },
+    {
+      "meme_name": "Option Twenty-Five",
+      "meme_image": "Images/option_25.png",
+      "meme_audio": "Audios/option_25.mp3"
+    },
+    {
+      "meme_name": "Option Twenty-Six",
+      "meme_image": "Images/option_26.png",
+      "meme_audio": "Audios/option_26.mp3"
+    },
+    {
+      "meme_name": "Option Twenty-Seven",
+      "meme_image": "Images/option_27.png",
+      "meme_audio": "Audios/option_27.mp3"
+    },
+    {
+      "meme_name": "Option Twenty-Eight",
+      "meme_image": "Images/option_28.png",
+      "meme_audio": "Audios/option_28.mp3"
+    },
+    {
+      "meme_name": "Option Twenty-Nine",
+      "meme_image": "Images/option_29.png",
+      "meme_audio": "Audios/option_29.mp3"
+    },
+    {
+      "meme_name": "Option Thirty",
+      "meme_image": "Images/option_30.png",
+      "meme_audio": "Audios/option_30.mp3"
+    },
+    {
+      "meme_name": "Option Thirty-One",
+      "meme_image": "Images/option_31.png",
+      "meme_audio": "Audios/option_31.mp3"
+    },
+    {
+      "meme_name": "Option Thirty-Two",
+      "meme_image": "Images/option_32.png",
+      "meme_audio": "Audios/option_32.mp3"
+    },
+    {
+      "meme_name": "Option Thirty-Three",
+      "meme_image": "Images/option_33.png",
+      "meme_audio": "Audios/option_33.mp3"
+    },
+    {
+      "meme_name": "Option Thirty-Four",
+      "meme_image": "Images/option_34.png",
+      "meme_audio": "Audios/option_34.mp3"
+    },
+    {
+      "meme_name": "Option Thirty-Five",
+      "meme_image": "Images/option_35.png",
+      "meme_audio": "Audios/option_35.mp3"
+    },
+    {
+      "meme_name": "Option Thirty-Six",
+      "meme_image": "Images/option_36.png",
+      "meme_audio": "Audios/option_36.mp3"
+    },
+    {
+      "meme_name": "Option Thirty-Seven",
+      "meme_image": "Images/option_37.png",
+      "meme_audio": "Audios/option_37.mp3"
+    },
+    {
+      "meme_name": "Option Thirty-Eight",
+      "meme_image": "Images/option_38.png",
+      "meme_audio": "Audios/option_38.mp3"
+    },
+    {
+      "meme_name": "Option Thirty-Nine",
+      "meme_image": "Images/option_39.png",
+      "meme_audio": "Audios/option_39.mp3"
+    },
+    {
+      "meme_name": "Option Forty",
+      "meme_image": "Images/option_40.png",
+      "meme_audio": "Audios/option_40.mp3"
     }
   ]
 }
